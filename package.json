@@ -1,6 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "lab-12",
+=======
+  "name": "lab-12-TimusJon",
+>>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
 =======
   "name": "lab-12-TimusJon",
 >>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
@@ -12,10 +16,13 @@
     "start": "webpack-dev-server --open"
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
 =======
+=======
+>>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iuthub/lab-12-TimusJon.git"
@@ -27,6 +34,9 @@
     "url": "https://github.com/iuthub/lab-12-TimusJon/issues"
   },
   "homepage": "https://github.com/iuthub/lab-12-TimusJon#readme",
+<<<<<<< HEAD
+>>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
+=======
 >>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
   "devDependencies": {
     "css-loader": "^2.1.1",
@@ -37,8 +47,11 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "webpack": "^4.31.0",
     "webpack-cli": "^3.3.2",
+=======
+>>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
 =======
 >>>>>>> ad34eb6f7b95781d1ac530ba42f3f3c0e37bfc65
     "webpack-dev-server": "^3.3.1"
